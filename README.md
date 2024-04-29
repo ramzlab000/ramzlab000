@@ -1,5 +1,5 @@
-Hi 👋 My name is Ram!
+👋 This is Ram's Lab
 =====================
 
-Recovering Dev 🤔
+I am a recovering dev 🤔
 -----------------
